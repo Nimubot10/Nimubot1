@@ -81,7 +81,7 @@ Click WA logo to Join Support Group 👇
 
 ### Deploy Page
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nimubot10/Nimubot1)
-</div>
+</div>https://github.com/Nimubot10/Nimubot1
 
 <br >
  
